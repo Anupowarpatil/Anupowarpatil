@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm purva</h1>
 <h3 align="center">A dedicated student with a strong passion for artificial intelligence, machine learning, Android development. I'm currently pursuing my studies in computer science and AI/ML. and I'm eager to apply what I'm learning to real-world projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupowarpatil&label=Profile%20views&color=0e75b6&style=flat" alt="anupowarpatil" /> </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=anupowarpatil&label=Profile%20Views&color=1&icon=2&pretty=true" />
+</a>
 
 - 🔭 I’m currently working on **Smart board using stick and projector**
 
