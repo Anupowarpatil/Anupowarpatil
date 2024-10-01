@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Smart board using stick and projector**
+
 
 - 🌱 I’m currently learning **React and Node.js**
 
