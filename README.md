@@ -3,13 +3,9 @@
 <h3 align="center">A dedicated student with a strong passion for artificial intelligence, machine learning, Android development. I'm currently pursuing my studies in computer science and AI/ML. and I'm eager to apply what I'm learning to real-world projects.</h3>
 
 ---
-
-
-
 - 🌱 I’m currently learning **React and Node.js**
 
 - 📫 How to reach me **purvapowarpatil10@gmail.com**
-
 ***
 
 ### 🌐 Connect with Me
